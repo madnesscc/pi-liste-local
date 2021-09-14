@@ -3,3 +3,4 @@ youtube.com
 googlevideo.com
 youtu.be
 youtube-ui.l.google.com
+yt3.ggpht.com
