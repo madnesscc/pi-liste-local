@@ -2,3 +2,4 @@ youtube.de
 youtube.com
 googlevideo.com
 youtu.be
+youtube-ui.l.google.com
