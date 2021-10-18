@@ -77,18 +77,6 @@ whatsapp-cdn-shv-01-sjc2.fbcdn.net
 0.0.0.0 akamai.net
 0.0.0.0 isnssdk.com
 0.0.0.0 www.tiktok.com
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 # INSTAGRAM
 0.0.0.0 api.instagram.com
 0.0.0.0	black.ish.instagram.com
@@ -153,18 +141,6 @@ About
 0.0.0.0	white.ish.instagram.com
 0.0.0.0	www.instagram.com
 0.0.0.0	cdninstagram.com
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 # FACEBOOK
 apps.facebook.com
 connect.facebook.net
