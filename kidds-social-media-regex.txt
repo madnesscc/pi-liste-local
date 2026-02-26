@@ -35,7 +35,7 @@ logger.instagram.com
 platform.instagram.com
 
 # --- WHATSAPP ---
-whatsapp.com
+# whatsapp.com
 www.whatsapp.com
 web.whatsapp.com
 whatsapp-cdn-shv-01-atl1.fbcdn.net
