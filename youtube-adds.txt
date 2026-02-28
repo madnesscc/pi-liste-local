@@ -2,6 +2,10 @@
 # YOUTUBE AD & TRACKING BLOCKLIST (Optimized)
 # Target: YouTube Ads, DoubleClick, and Google Analytics
 # Note: DNS blocking may not stop all YouTube video ads.
+# Version: 1.0.0
+# Author: madnesscc
+# License: MIT
+# Last modified: 2026-02-28
 # ============================================================
 
 # --- YOUTUBE SPECIFIC AD SERVICES ---
