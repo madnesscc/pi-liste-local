@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 🛡️ Pi-Liste-Local (Kids Protection & AdBlock)
 
 A private collection of filters for Pi-hole and AdGuard Home, designed to secure social media and YouTube for children while reducing intrusive advertisements.
@@ -42,6 +44,8 @@ For Pi-hole Users
 
 This is a private repository updated as needed.
 
-    Last Updated: February 2026
-
-    License: Unlicense (Public Domain)
+! Version: 1.0.0
+! Author: madnesscc
+! License: MIT
+! Last modified: 2026-02-28
+! --------------------------------------------------
