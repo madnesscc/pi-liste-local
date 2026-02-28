@@ -3,6 +3,10 @@
 # Includes: Facebook, Instagram, WhatsApp, TikTok, Snapchat, 
 #           X/Twitter, Discord, Pinterest, Reddit, Threads
 # Format: Domain List (Compatible with Pi-hole)
+# Version: 1.0.0
+# Author: madnesscc
+# License: MIT
+# Last modified: 2026-02-28
 # ============================================================
 
 # --- FACEBOOK & MESSENGER ---
