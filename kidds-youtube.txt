@@ -1,3 +1,9 @@
+# Version: 1.0.0
+# Author: madnesscc
+# License: MIT
+# Last modified: 2026-02-28
+# ===============================
+
 youtube.de
 youtube.com
 youtu.be
